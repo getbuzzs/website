@@ -1,6 +1,6 @@
 # Zen Cash Website
 
-This is the first iteration of creating a website for Zen Cash that utilizes a static site generator. It is based on past work but will evolve over time to leverage new technologies.
+This is the first time iteration of creating a website for Zen based Cash that utilizes a static site generator. It is based on past work but will evolve over time to leverage new technologies.
 
 ## Getting Started
 
